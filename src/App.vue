@@ -12,7 +12,7 @@
     <hr>
   </em>
   <footer class="page-item">
-    <a class="github" href="">Github</a>
+    <a class="github" href="https://github.com/Martho42/Creative3">Github</a>
   </footer>
   <em>
     <hr>
